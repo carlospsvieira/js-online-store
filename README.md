@@ -1,4 +1,4 @@
-# JavaScript Online Store
+# Reactjs Online Store with Class Components
 
 #### Api: mercadolivre.com.br
 
